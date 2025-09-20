@@ -1,2 +1,1 @@
-# mini_blogs
-# mini blog application 
+# mini blog web application 
